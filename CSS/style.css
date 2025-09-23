@@ -1,27 +1,51 @@
 p {
-    background-color: blue;
+    background-color: gray;
     color: white;
-    font: Times;
-    font-size: large;
+    font-family: cursive;
+    font-size: 1.15rem;
 }
 
 h1 {
     font-size: 3rem;
-}
-
-header {
-    
-}
-
-body {
-
+    font-weight: bold;
+    color: purple;
+    font-style: italic;
+    font-family: Cascadia Code, cursive;
 }
 
 #destinations {
-    background-color: red;
+    background-color: gray;
     color: white;
+    font-size: 0.8rem;
+    font-family: Cascadia Code, cursive;
+}
+
+#gallery {
+    background-color: gray;
+    color: white;
+    font-size: 0.8rem;
+    font-family: Cascasdia Code, cursive;
 }
 
 .section {
     color: purple;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: gray;
+    font-style: italic;
+    font-family: Cascadia Code, cursive;
+}
+
+body {
+    background-color: gray;
+}
+
+header {
+    background-color: gray;
+}
+
+nav {
+    font-size: 0.8rem;
+    font-weight: bold;
+    font-style: italic;
 }
